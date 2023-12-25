@@ -27,7 +27,7 @@
 # $FreeBSD$
 
 clear
-echo "OPNsense Installer"
+echo "Reticen8 Installer"
 echo "=================="
 echo
 
