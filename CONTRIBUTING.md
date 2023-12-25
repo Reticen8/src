@@ -38,12 +38,12 @@ The issue catetories are as follows:
 Feature requests that are in line with project goals will eventually
 be added to our roadmap:
 
-https://opnsense.org/about/road-map/
+https://reticen8.org/about/road-map/
 
 Feature requests beyond the scope of OPNsense may still be provided
 using the plugin framework:
 
-https://github.com/opnsense/plugins/issues
+https://github.com/reticen8/plugins/issues
 
 Stale issues are timed out after 180 days inactivity.  Please
 note that this includes non-support issues such as feature requests

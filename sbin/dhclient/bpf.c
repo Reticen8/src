@@ -5,7 +5,7 @@
 /*-
  * SPDX-License-Identifier: BSD-3-Clause
  *
- * Copyright (c) 2021 Franco Fichtner <franco@opnsense.org>
+ * Copyright (c) 2021 Franco Fichtner <franco@reticen8.org>
  * Copyright (c) 1995, 1996, 1998, 1999
  * The Internet Software Consortium.    All rights reserved.
  *
